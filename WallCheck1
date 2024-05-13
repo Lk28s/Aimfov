@@ -3,7 +3,7 @@
 ]]
 -- Credit Dollynho --
 
-local fov = 75
+local fov = 80
 local maxDistance = 400
 local maxTransparency = 0.1
 local teamCheck = false
